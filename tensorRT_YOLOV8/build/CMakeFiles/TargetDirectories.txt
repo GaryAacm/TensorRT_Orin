@@ -1,0 +1,3 @@
+/home/gary/Desktop/deep_learning/YOLO/YOLO_Gary/build/CMakeFiles/trt_demo.dir
+/home/gary/Desktop/deep_learning/YOLO/YOLO_Gary/build/CMakeFiles/edit_cache.dir
+/home/gary/Desktop/deep_learning/YOLO/YOLO_Gary/build/CMakeFiles/rebuild_cache.dir
